@@ -1,0 +1,21 @@
+.aboutus-section {
+  padding: 3rem 20rem;
+  background: #111;
+}
+
+.aboutus-container {
+  width: 100%;
+}
+
+.aboutus-heading {
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 500;
+  color: #fff;
+
+}
+
+.aboutus-description {
+  text-align: center;
+  color: #fff;
+}
