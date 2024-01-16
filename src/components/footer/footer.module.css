@@ -7,9 +7,10 @@
 .footer-container {
   max-width: 1200px;
   margin: auto;
-  padding: 2rem 0;
+  padding: 2rem;
   display: flex;
   justify-content: space-between;
+  flex-wrap: wrap;
 }
 
 .footer-address, .footer-links,.footer-conferences{

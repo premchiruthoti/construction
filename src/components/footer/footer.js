@@ -71,7 +71,7 @@ export default function Footer() {
           </div>
         </div>
         <div className={classes["footer-bottom"]}>
-          <p className="text-center m-0 py-5 text-white bg-black">Copyright &copy; 2023.</p>
+          <p className="text-center m-0 py-5 text-white bg-black">Copyright &copy; 2023 - {new Date().getFullYear()}. All rights reserved.</p>
         </div>
       </footer>
     </>
